@@ -51,9 +51,9 @@ app.innerHTML = `
   <header class="hero">
     <div class="container">
       <div class="hero-content reveal">
-        <div class="badge">Next-Generation IT</div>
-        <h1 class="text-gradient">Intelligent <span class="text-brand">Software</span> for Modern Business.</h1>
-        <p>KHARECE delivers expert managed services designed to scale your operations, secure your data, and optimize your digital landscape with people-centric technology.</p>
+        <div class="badge">Modern Business Tech</div>
+        <h1 class="text-gradient">Smart <span class="text-brand">Software</span> for Modern Business.</h1>
+        <p>KHARECE provides expert technology services designed to grow your business, keep your data safe, and improve how you use digital tools with people-focused technology.</p>
         <div class="hero-actions">
           <a href="#services" class="btn btn-primary">
             Explore Solutions
@@ -68,9 +68,9 @@ app.innerHTML = `
   <section id="services">
     <div class="container">
       <div class="section-header reveal">
-        <div class="badge">Solutions</div>
-        <h2 class="text-gradient">Our Core Managed <span class="text-brand">Expertise</span></h2>
-        <p>Strategic technology solutions tailored to drive competitive advantage and operational excellence.</p>
+        <div class="badge">Services</div>
+        <h2 class="text-gradient">Our Core <span class="text-brand">Expertise</span></h2>
+        <p>Strategic technology solutions built to give your business an edge and help things run smoothly.</p>
       </div>
       
       <div class="services-grid">
@@ -86,16 +86,16 @@ app.innerHTML = `
           <div class="service-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path></svg>
           </div>
-          <h3>Cloud Strategy</h3>
-          <p>Seamless hybrid cloud migrations, serverless architectures, and scalable infrastructure management for the modern era.</p>
+          <h3>Cloud Support</h3>
+          <p>Smooth move to the cloud, easy-to-manage systems, and reliable storage solutions for the modern era.</p>
         </div>
         
         <div class="service-card reveal">
           <div class="service-icon">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
           </div>
-          <h3>Managed Support</h3>
-          <p>Always-on technical partnership. Proactive maintenance and rapid resolution cycles keeping your team productive.</p>
+          <h3>Dedicated Support</h3>
+          <p>A reliable technical partner by your side. Continuous maintenance and fast fixes to keep your team working without breaks.</p>
         </div>
       </div>
     </div>
@@ -110,16 +110,16 @@ app.innerHTML = `
       </div>
       <div class="services-grid">
         <div class="service-card reveal">
-          <h3>Full-Stack Mastery</h3>
-          <p>React, Node.js, and TypeScript integration for high-performance web applications.</p>
+          <h3>Website & App Experts</h3>
+          <p>Building high-performance websites and applications that are easy to use and fast.</p>
         </div>
         <div class="service-card reveal">
-          <h3>Cloud Engineering</h3>
-          <p>AWS, Azure, and Google Cloud architecting for global scalability and reliability.</p>
+          <h3>Cloud Setup</h3>
+          <p>Setting up and managing reliable cloud systems that grow with your business.</p>
         </div>
         <div class="service-card reveal">
-          <h3>Cyber Resilience</h3>
-          <p>Zero-trust security models and advanced encryption standards integrated into every line of code.</p>
+          <h3>Safe & Secure</h3>
+          <p>High-level security and data protection built into every part of your technology.</p>
         </div>
       </div>
     </div>
@@ -135,13 +135,13 @@ app.innerHTML = `
       <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
          <div class="service-card reveal" style="padding: 2rem;">
             <div style="color: var(--brand-primary); font-size: 0.8rem; margin-bottom: 1rem;">March 2026 • AI Strategy</div>
-            <h4>The Future of Generative AI in Enterprise Systems</h4>
-            <p style="font-size: 0.95rem; margin-top: 1rem;">Exploring how AI is redefining operational efficiency and customer engagement.</p>
+            <h4>How AI is Changing the Way Businesses Work</h4>
+            <p style="font-size: 0.95rem; margin-top: 1rem;">Looking at how smart tools are making businesses run better and helping customers more.</p>
          </div>
          <div class="service-card reveal" style="padding: 2rem;">
             <div style="color: var(--brand-primary); font-size: 0.8rem; margin-bottom: 1rem;">Feb 2026 • Cloud Costs</div>
-            <h4>Optimizing Cloud Spend: A Multi-Cloud Approach</h4>
-            <p style="font-size: 0.95rem; margin-top: 1rem;">Practical steps to reduce infrastructure overhead without sacrificing performance.</p>
+            <h4>Managing Technology Costs</h4>
+            <p style="font-size: 0.95rem; margin-top: 1rem;">Easy steps to lower your technology spending without slowing down your business.</p>
          </div>
       </div>
     </div>
@@ -224,7 +224,7 @@ app.innerHTML = `
               <textarea rows="4" placeholder="Tell us about your technical challenges..."></textarea>
             </div>
             <button type="submit" class="btn btn-primary" style="width: 100%;">
-              Send Secure Request
+              Send Message
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
             </button>
           </form>
